@@ -3,7 +3,7 @@ spring:
     name: spring-boot-docker-compose
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: Paparao@1
+    password: root
     url: jdbc:mysql://mysqldb:3306/tickets
     username: root
   jpa:
