@@ -4,7 +4,7 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     password: root
-    url: jdbc:mysql://mysqldb:3306/tickets
+    url: jdbc:mysql://mysqldb:3306/sbms
     username: root
   jpa:
     hibernate:
